@@ -299,11 +299,11 @@ KEYFRAMES ANIMATION */
     width: 0;
     
   }
-  
 }
 
 @keyframes manipActiveHover {
   100% {
     pointer-events: auto;
+    
   }
 }
